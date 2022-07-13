@@ -1,6 +1,6 @@
 import { fetchOrLoad } from "https://js.sabae.cc/fetchOrLoad.js";
 import { DOMParser } from "https://js.sabae.cc/DOMParser.js";
-import { CSV } from "https://js.sabae.cc/CSV.js";
+import { writeData } from "https://js.sabae.cc/writeData.js";
 
 const url = "https://www.cas.go.jp/jp/seisaku/digital_denen/koushien.html";
 const html = await fetchOrLoad(url);
@@ -14,10 +14,13 @@ const links = dom.querySelectorAll("a").map(a => {
 }).filter(a => a.url.startsWith("chiiki/"));
 //console.log(links);
 
+const trim2 = (s) => s[0] == "・" || s[0] == "●" ? s.substring(1).trim() : s.trim();
+
 const list = [];
 const base = "https://www.cas.go.jp/jp/seisaku/digital_denen/";
 for (const link of links) {
-  const html = await fetchOrLoad(base + link.url);
+  const url = base + link.url;
+  const html = await fetchOrLoad(url);
   const dom = new DOMParser().parseFromString(html, "text/html");
   const tags = dom.querySelectorAll(".contents > *");
   let data = null;
@@ -25,6 +28,7 @@ for (const link of links) {
     //console.log(tag.tagName);
     if (tag.tagName == "H2") {
       if (data) {
+        data.src = url;
         list.push(data);
       }
       data = { pref: link.name };
@@ -43,17 +47,21 @@ for (const link of links) {
           data.image = meta.getAttribute("content");
         }
       });
+      const title = mdom.querySelector("title").textContent.split("｜");
+      data.city = title[0];
+      data.title = title[1];
     } else if (tag.tagName == "P") {
       const st = tag.querySelector("strong");
       if (st) {
-        data.name = st.textContent.substring(1).trim();
+        data.name = trim2(st.textContent);
       } else {
-        data.description = tag.textContent.substring(1).trim();
+        data.description = trim2(tag.textContent);
       }
     }
   }
   if (data) {
+    data.src = url;
     list.push(data);
   }
 }
-await Deno.writeTextFile("../data/dd-koshien-2022s.csv", CSV.stringify(list));
+await writeData("../data/dd-koshien-2022s", list);

@@ -56,4 +56,4 @@ for (const link of links) {
     list.push(data);
   }
 }
-await Deno.writeTextFile("../data/dd-koshien.csv", CSV.stringify(list));
+await Deno.writeTextFile("../data/dd-koshien-2022s.csv", CSV.stringify(list));

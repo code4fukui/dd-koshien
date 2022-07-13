@@ -1,10 +1,10 @@
-﻿pref,category,name,url,movie,description,image
+﻿pref,category,name,url,movie,image,description
 北海道,実装部門（上記を除く市）,書かないワンストップ窓口,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/01-2.pdf,,,
 北海道,実装部門（町・村）,レポサク - 農業DX / 車両と圃場の管理システム,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/01-3.pdf,,,
 北海道,アイデア部門,神恵内からはばたく・神恵内に戻るデジタル活用小中一貫キャリア教育　～神恵内U15（神恵内の子供たち）の未来を拓く教育の実現～,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/01-4.pdf,,,
 青森県,実装部門（指定都市・中核市・施行時特例市等）,除排雪状況の公開,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/02-1.pdf,,,
 青森県,実装部門（町・村）,愛と誇りに満ちた住民の安心・安全を守る「ＡＩ（愛）サイ（佐井）ボード」ネットワーク構築事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/02-3.pdf,,,
-青森県,アイデア部門,ヘルステックを核とした健康まちづくりプロジェクト,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/02-4.pdf,https://nettv.gov-online.go.jp/prg/prg24709.html,青森市は、「ヘルステックを核とした健康まちづくりプロジェクト」として、「モビリティを活用した予防サービス」と「IoTを活用したみまもりサービス」に取り組み、生活習慣病予防や特定健診受診率の向上など健康寿命延伸のため挑戦し続けています。,
+青森県,アイデア部門,ヘルステックを核とした健康まちづくりプロジェクト,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/02-4.pdf,https://nettv.gov-online.go.jp/prg/prg24709.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024709.JPG,青森市は、「ヘルステックを核とした健康まちづくりプロジェクト」として、「モビリティを活用した予防サービス」と「IoTを活用したみまもりサービス」に取り組み、生活習慣病予防や特定健診受診率の向上など健康寿命延伸のため挑戦し続けています。
 岩手県,実装部門（上記を除く市）,八幡平市メディテックバレープロジェクト（遠隔診療・見守りDX基盤の構築による持続可能な地域づくり）,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/03-2.pdf,,,
 宮城県,実装部門（指定都市・中核市・施行時特例市等）,宮城地区西部の課題解決に向けたデジタル技術の活用,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/04-1.pdf,,,
 宮城県,実装部門（上記を除く市）,コミュニティを核とした持続可能な地域社会の構築,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/04-2.pdf,,,
@@ -24,18 +24,18 @@
 茨城県,実装部門（上記を除く市）,スマホアプリを活用したＡＩによる呼出型乗合バス実証運行,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/08-2.pdf,,,
 茨城県,実装部門（町・村）,自動運転バスを活用したサステナブルなまちづくり,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/08-3.pdf,,,
 茨城県,アイデア部門,デジタル化による安全・安心で持続可能なまちづくり,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/08-4.pdf,,,
-栃木県,実装部門（指定都市・中核市・施行時特例市等）,「来訪者の状況に応じたレコメンドサービス」によるまちの賑わい創出,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/09-1.pdf,https://nettv.gov-online.go.jp/prg/prg24676.html,コミュニケーションアプリ「ＬＩＮＥ」上に「コレメッケ宇都宮」を構築し，会話型の観光案内（チャットbot）やプッシュ通知からのコンテンツ配信，混雑時の整理券発行などの機能により，来訪者の街あるきのホスピタリティ向上や回遊促進を図る取組です。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024676.png
-栃木県,実装部門（上記を除く市）,全国初！ LINEを活用したモバイル定期券・回数券によるキャッシュレス化でコミュニティバス「おーバス」の利便性向上,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/09-2.pdf,https://nettv.gov-online.go.jp/prg/prg24657.html,LINEを基盤にしたモバイル乗車券。紙製の格安市内バス全線定期券と回数券をスマホアプリ化。運転手にスマホのLINE画面を提示するだけのシンプル設計で、老若男女誰もが使いやすく、交通系ICカードと比較して、導入・維持費用の大幅コストダウン。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024657.png
+栃木県,実装部門（指定都市・中核市・施行時特例市等）,「来訪者の状況に応じたレコメンドサービス」によるまちの賑わい創出,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/09-1.pdf,https://nettv.gov-online.go.jp/prg/prg24676.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024676.png,コミュニケーションアプリ「ＬＩＮＥ」上に「コレメッケ宇都宮」を構築し，会話型の観光案内（チャットbot）やプッシュ通知からのコンテンツ配信，混雑時の整理券発行などの機能により，来訪者の街あるきのホスピタリティ向上や回遊促進を図る取組です。
+栃木県,実装部門（上記を除く市）,全国初！ LINEを活用したモバイル定期券・回数券によるキャッシュレス化でコミュニティバス「おーバス」の利便性向上,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/09-2.pdf,https://nettv.gov-online.go.jp/prg/prg24657.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024657.png,LINEを基盤にしたモバイル乗車券。紙製の格安市内バス全線定期券と回数券をスマホアプリ化。運転手にスマホのLINE画面を提示するだけのシンプル設計で、老若男女誰もが使いやすく、交通系ICカードと比較して、導入・維持費用の大幅コストダウン。
 栃木県,アイデア部門,都市ＯＳを活用して市民とつくるデジタルハザードマップ,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/09-4.pdf,,,
 群馬県,実装部門（指定都市・中核市・施行時特例市等）,マイナンバーカードを活用したタクシーによる高齢者等の移動支援,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/10-1.pdf,,,
 群馬県,実装部門（上記を除く市）,デジタルを活用した会話のコミュニケーション支援,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/10-2.pdf,,,
-群馬県,実装部門（町・村）,観光・関係人口増加のための嬬恋スマートシティ,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/10-3.pdf,https://nettv.gov-online.go.jp/prg/prg24705.html,群馬県嬬恋村役場 未来創造課 デジタル推進室長 山口倫照です。ここ数年でさらに耳にするスマートシティ…DX…。ひとつのスマートシティの形がここにあります。国民・事業者の皆様、自治体それぞれへのメリットをご説明します。ぜひご覧になって下さい。,
-群馬県,アイデア部門,めぶくEYE：視覚障がい者歩行サポートシステム,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/10-4.pdf,https://nettv.gov-online.go.jp/prg/prg24704.html,視覚障がい者のためにスマホカメラとAI技術が捉えた景色を音声でナビゲートするデジタル歩行サービス「めぶくEYE」。まえばしIDによる共助型未来プラットフォームを通じこれまでの困難な移動を楽しみの散歩に変える。景色が聴こえるDXを実現します。,
+群馬県,実装部門（町・村）,観光・関係人口増加のための嬬恋スマートシティ,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/10-3.pdf,https://nettv.gov-online.go.jp/prg/prg24705.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024705.png,群馬県嬬恋村役場 未来創造課 デジタル推進室長 山口倫照です。ここ数年でさらに耳にするスマートシティ…DX…。ひとつのスマートシティの形がここにあります。国民・事業者の皆様、自治体それぞれへのメリットをご説明します。ぜひご覧になって下さい。
+群馬県,アイデア部門,めぶくEYE：視覚障がい者歩行サポートシステム,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/10-4.pdf,https://nettv.gov-online.go.jp/prg/prg24704.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024704.png,視覚障がい者のためにスマホカメラとAI技術が捉えた景色を音声でナビゲートするデジタル歩行サービス「めぶくEYE」。まえばしIDによる共助型未来プラットフォームを通じこれまでの困難な移動を楽しみの散歩に変える。景色が聴こえるDXを実現します。
 埼玉県,実装部門（指定都市・中核市・施行時特例市等）,BIツールを活用したワクチン接種状況の可視化による情報発信の強化,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/11-1.pdf,,,
 埼玉県,実装部門（上記を除く市）,地域通貨ネギーによるデジタル基盤の構築と新たな自治体経営について,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/11-2.pdf,,,
 埼玉県,実装部門（町・村）,オートコールソリューション等を活用した災害発生時の避難誘導,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/11-3.pdf,,,
-埼玉県,アイデア部門,秩父地域スマートモビリティによるエコタウン創造事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/11-4.pdf,https://nettv.gov-online.go.jp/prg/prg24714.html,"『大雪でモノが届かない！』『電車で観光に来たけど、あの場所までどう行けばいいの!?』都心から近い観光地の秩父、豊かな自然と観光資源の反面、山間地域特有の課題も･･･。
-デジタルを活用し、地域課題の解決に挑む秩父市と横瀬町の構想を紹介します！",
+埼玉県,アイデア部門,秩父地域スマートモビリティによるエコタウン創造事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/11-4.pdf,https://nettv.gov-online.go.jp/prg/prg24714.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024714.png,"『大雪でモノが届かない！』『電車で観光に来たけど、あの場所までどう行けばいいの!?』都心から近い観光地の秩父、豊かな自然と観光資源の反面、山間地域特有の課題も･･･。
+デジタルを活用し、地域課題の解決に挑む秩父市と横瀬町の構想を紹介します！"
 千葉県,実装部門（指定都市・中核市・施行時特例市等）,市が保有する住民情報を活用した、市民一人ひとりに合わせたプッシュ型通知サービス「あなたが使える制度お知らせサービス ～For You～」,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/12-1.pdf,,,
 千葉県,実装部門（上記を除く市）,利用者と地域と行政をつなぐデジタルコミュニケーションの実現,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/12-2.pdf,,,
 千葉県,実装部門（町・村）,地域医療のデジタル化に係る包括協定の締結,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/12-3.pdf,,,
@@ -45,51 +45,51 @@
 東京都,実装部門（町・村）,各戸タブレット配布による住民サービスの向上,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/13-3.pdf,,,
 東京都,アイデア部門,デジタル地域通貨「いたばしPay」を活用したキャッシュレス決済の推進及び事業者支援,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/13-4.pdf,,,
 神奈川県,実装部門（指定都市・中核市・施行時特例市等）,書かない窓口,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/14-1.pdf,,,
-神奈川県,実装部門（上記を除く市）,秦野市ＩＣＴマイスター制度を活用した小中学校でのＩＣＴ活用の推進,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/14-2.pdf,https://nettv.gov-online.go.jp/prg/prg24693.html,秦野市では、市内の小・中学校でICT活用を積極的に行う教職員を「ICTマイスター」として委嘱し、デジタルを活用した新たな学びのスタイルを作っています。子供たちの未来に繋がる取組みをぜひご覧下さい。,
+神奈川県,実装部門（上記を除く市）,秦野市ＩＣＴマイスター制度を活用した小中学校でのＩＣＴ活用の推進,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/14-2.pdf,https://nettv.gov-online.go.jp/prg/prg24693.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024693.png,秦野市では、市内の小・中学校でICT活用を積極的に行う教職員を「ICTマイスター」として委嘱し、デジタルを活用した新たな学びのスタイルを作っています。子供たちの未来に繋がる取組みをぜひご覧下さい。
 神奈川県,実装部門（町・村）,行政協力委員へのタブレット端末貸与事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/14-3.pdf,,,
 神奈川県,アイデア部門,究極の「ゼロカーボン・デジタルタウン」の創造,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/14-4.pdf,,,
-新潟県,実装部門（指定都市・中核市・施行時特例市等）,長岡ワークモデル「NAGAOKA WORKER」多様な働き方のミライ　ＩＴ企業とのマッチングとキャリアトレーニングの推進,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/15-1.pdf,https://nettv.gov-online.go.jp/prg/prg24681.html,長岡市で暮らしながら首都圏企業に完全リモートワークで勤める新しい働き方「長岡ワークモデル」。その実践者である「NAGAOKA WORKER」の時間や場所に捉われない働き方の魅力、そして今後の展開をご紹介します。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024681.png
-新潟県,実装部門（上記を除く市）,燕版共用受発注システム「SFTC(Smart Factory Tsubame Cloud)」構築・導入促進事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/15-2.pdf,https://nettv.gov-online.go.jp/prg/prg24699.html,ものづくりのまち・燕市では、取引企業間の受発注情報等をクラウド上で共有するシステムを構築しました。電話・FAX中心だったやり取りをデジタル化することで作業効率を上げるほか、ペーパーレスやテレワークを促進し、産地全体の生産性向上を目指します。,
-新潟県,実装部門（町・村）,粟島遠隔テレビ電話診療事業及び救急現場ｉＰａｄ活用推進事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/15-3.pdf,https://nettv.gov-online.go.jp/prg/prg24637.html,無医村である本村では、平成12年度より、粟島へき地出張診療所と本土にある村上総合病院とで、テレビ電話による診療を始めました。今ではIpadによる活用も行われ、遠隔テレビ電話診療は、島民の安心できる生活には無くてはならないものです。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024637.png
+新潟県,実装部門（指定都市・中核市・施行時特例市等）,長岡ワークモデル「NAGAOKA WORKER」多様な働き方のミライ　ＩＴ企業とのマッチングとキャリアトレーニングの推進,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/15-1.pdf,https://nettv.gov-online.go.jp/prg/prg24681.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024681.png,長岡市で暮らしながら首都圏企業に完全リモートワークで勤める新しい働き方「長岡ワークモデル」。その実践者である「NAGAOKA WORKER」の時間や場所に捉われない働き方の魅力、そして今後の展開をご紹介します。
+新潟県,実装部門（上記を除く市）,燕版共用受発注システム「SFTC(Smart Factory Tsubame Cloud)」構築・導入促進事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/15-2.pdf,https://nettv.gov-online.go.jp/prg/prg24699.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024699.png,ものづくりのまち・燕市では、取引企業間の受発注情報等をクラウド上で共有するシステムを構築しました。電話・FAX中心だったやり取りをデジタル化することで作業効率を上げるほか、ペーパーレスやテレワークを促進し、産地全体の生産性向上を目指します。
+新潟県,実装部門（町・村）,粟島遠隔テレビ電話診療事業及び救急現場ｉＰａｄ活用推進事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/15-3.pdf,https://nettv.gov-online.go.jp/prg/prg24637.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024637.png,無医村である本村では、平成12年度より、粟島へき地出張診療所と本土にある村上総合病院とで、テレビ電話による診療を始めました。今ではIpadによる活用も行われ、遠隔テレビ電話診療は、島民の安心できる生活には無くてはならないものです。
 新潟県,アイデア部門,デジタルで実現するウェルネスと地域経済循環,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/15-4.pdf,,,
-富山県,実装部門（指定都市・中核市・施行時特例市等）,地域まるごとIoT化（富山市センサーネットワーク）,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/16-1.pdf,https://nettv.gov-online.go.jp/prg/prg24694.html,市全域をカバーするIoT用ネットワーク網とそこから得られた情報を管理する情報基盤からなる「富山市センサーネットワーク」を整備し様々な事業に活用しています。また、民間事業者にもこのインフラを無償提供し、自社サービスの開発等に活用頂いています。,
-富山県,実装部門（上記を除く市）,LINE公式アカウントを市のもう一つの窓口に,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/16-2.pdf,https://nettv.gov-online.go.jp/prg/prg24672.html,魚津市では全国で初めて、LINE公式アカウント上で証明書の請求や転出届のオンライン申請ができる仕組みを実装しました。LINEを利用することにより、あらゆる人が迷うことなくデジタル化の恩恵を享受することができると考えています。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024672.png
+富山県,実装部門（指定都市・中核市・施行時特例市等）,地域まるごとIoT化（富山市センサーネットワーク）,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/16-1.pdf,https://nettv.gov-online.go.jp/prg/prg24694.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024694.png,市全域をカバーするIoT用ネットワーク網とそこから得られた情報を管理する情報基盤からなる「富山市センサーネットワーク」を整備し様々な事業に活用しています。また、民間事業者にもこのインフラを無償提供し、自社サービスの開発等に活用頂いています。
+富山県,実装部門（上記を除く市）,LINE公式アカウントを市のもう一つの窓口に,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/16-2.pdf,https://nettv.gov-online.go.jp/prg/prg24672.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024672.png,魚津市では全国で初めて、LINE公式アカウント上で証明書の請求や転出届のオンライン申請ができる仕組みを実装しました。LINEを利用することにより、あらゆる人が迷うことなくデジタル化の恩恵を享受することができると考えています。
 富山県,実装部門（町・村）,マイカーを活用した共助型公共交通　ノッカルあさひまち,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/16-3.pdf,,,
 富山県,アイデア部門,ＩＴ人材養成所,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/16-4.pdf,,,
 石川県,実装部門（指定都市・中核市・施行時特例市等）,金沢ＭａａＳコンソーシアムによるデジタル交通サービスWebアプリ「のりまっし金沢」の社会実装,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/17-1.pdf,,,
-石川県,実装部門（上記を除く市）,デジタル活用による患者・来訪者の負担軽減,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/17-2.pdf,https://nettv.gov-online.go.jp/prg/prg24684.html,小松市民病院は「顔認証による外来受診受付（自治体病院では全国初）・手術室入退室」、「オンライン診療」、「ＡＩ問診」など、デジタルを活用した様々なサービスを導入しています。快適な療養環境と安心・安全な病院を目指し、地域医療の充実に貢献します。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024684.png
+石川県,実装部門（上記を除く市）,デジタル活用による患者・来訪者の負担軽減,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/17-2.pdf,https://nettv.gov-online.go.jp/prg/prg24684.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024684.png,小松市民病院は「顔認証による外来受診受付（自治体病院では全国初）・手術室入退室」、「オンライン診療」、「ＡＩ問診」など、デジタルを活用した様々なサービスを導入しています。快適な療養環境と安心・安全な病院を目指し、地域医療の充実に貢献します。
 福井県,実装部門（指定都市・中核市・施行時特例市等）,福井市地域コミュニティDX推進事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/18-1.pdf,,,
-福井県,実装部門（上記を除く市）,ドローンを活用したスマート物流構築事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/18-2.pdf,https://nettv.gov-online.go.jp/prg/prg24671.html,敦賀市が関係企業等と連携し、ドローンを活用したスマート物流の構築事業を実施することで、買物困難といった中山間地域の課題解決とともに、買物代行やフードデリバリー等のサービス展開の社会実装を目指す。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024671.png
-福井県,実装部門（町・村）,自動運転「ZEN drive」による移動サービスの省人化,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/18-3.pdf,https://nettv.gov-online.go.jp/prg/prg24650.html,永平寺町は、自動運転車両による移動サービスの実現を通じ、地方の移動課題解決に向けた取組みを行っています。2021年、自動運転レベル3による実用化を達成しました。引き続き、レベル4の実現に向けて取組んでいます。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024650.png
-福井県,アイデア部門,デジタルツイン：みんなでインターネット上に「自分のまち」を再現！,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/18-4.pdf,https://nettv.gov-online.go.jp/prg/prg24708.html,自分達でまちの未来を創る！」テクノロジーで地域課題を解決するシビックテック団体を中心に市民、学生、アイドル達が、身近なスマホ等を使ってまち並みをスキャンして、インターネットに自分達のまちを再現！さらに、再現したまちはオープンデータで公開！,
+福井県,実装部門（上記を除く市）,ドローンを活用したスマート物流構築事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/18-2.pdf,https://nettv.gov-online.go.jp/prg/prg24671.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024671.png,敦賀市が関係企業等と連携し、ドローンを活用したスマート物流の構築事業を実施することで、買物困難といった中山間地域の課題解決とともに、買物代行やフードデリバリー等のサービス展開の社会実装を目指す。
+福井県,実装部門（町・村）,自動運転「ZEN drive」による移動サービスの省人化,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/18-3.pdf,https://nettv.gov-online.go.jp/prg/prg24650.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024650.png,永平寺町は、自動運転車両による移動サービスの実現を通じ、地方の移動課題解決に向けた取組みを行っています。2021年、自動運転レベル3による実用化を達成しました。引き続き、レベル4の実現に向けて取組んでいます。
+福井県,アイデア部門,デジタルツイン：みんなでインターネット上に「自分のまち」を再現！,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/18-4.pdf,https://nettv.gov-online.go.jp/prg/prg24708.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024708.png,自分達でまちの未来を創る！」テクノロジーで地域課題を解決するシビックテック団体を中心に市民、学生、アイドル達が、身近なスマホ等を使ってまち並みをスキャンして、インターネットに自分達のまちを再現！さらに、再現したまちはオープンデータで公開！
 山梨県,実装部門（上記を除く市）,プライベート無線ネットワークによる農業を起点とした身の丈スマートシティ,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/19-2.pdf,,,
 山梨県,実装部門（町・村）,過疎地域におけるドローン物流サービス,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/19-3.pdf,,,
 山梨県,アイデア部門,甲斐市デジタルデバイド・買物弱者解消支援事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/19-4.pdf,,,
 長野県,実装部門（指定都市・中核市・施行時特例市等）,長野県内全７７市町村が主体となった協働事業！市町村と県による協働電子図書館「デジとしょ信州」」,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/20-1.pdf,,,
 長野県,実装部門（上記を除く市）,AIを活用したオンデマンド型地域公共交通システム構築プロジェクト,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/20-2.pdf,,,
-長野県,実装部門（町・村）,デジタルを活用した自治区（自治会、町内会）から居住区民への情報配信,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/20-3.pdf,https://nettv.gov-online.go.jp/prg/prg24591.html,町のLINE公式アカウント上で居住地区を登録した住民へ、自治会等が自ら情報を配信できる仕組みを構築しました。今後はスマートフォンの操作が苦手な人にも情報が行き渡るよう、電源を入れただけで使える専用受信機を町内事業者と検討し試作する予定です。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024591.png
+長野県,実装部門（町・村）,デジタルを活用した自治区（自治会、町内会）から居住区民への情報配信,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/20-3.pdf,https://nettv.gov-online.go.jp/prg/prg24591.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024591.png,町のLINE公式アカウント上で居住地区を登録した住民へ、自治会等が自ら情報を配信できる仕組みを構築しました。今後はスマートフォンの操作が苦手な人にも情報が行き渡るよう、電源を入れただけで使える専用受信機を町内事業者と検討し試作する予定です。
 岐阜県,実装部門（指定都市・中核市・施行時特例市等）,学校と保護者間連絡のデジタル化による利便性向上と働き方改革の推進,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/21-1.pdf,,,
 岐阜県,実装部門（上記を除く市）,電子地域通貨「さるぼぼコイン」を活用した、行政サービスの向上及び地元企業の支援,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/21-2.pdf,,,
 岐阜県,実装部門（町・村）,デジタルコンテンツを活用した関ケ原古戦場の魅力創出,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/21-3.pdf,,,
-岐阜県,アイデア部門,超高速交通網との接続にむけた自動運転ネットワークの導入と地域拠点整備による新たな人の流れ創出事業※内閣府未来技術社会実装事業（R3年度認定）,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/21-4.pdf,https://nettv.gov-online.go.jp/prg/prg24695.html,中津川市と東京大学の共同研究により、当市の地域に自動運転技術の導入と新たな交通・交流拠点の創出により、リニア駅と濃飛横断自動車道の広域交通の整備効果を中心部から離れた地域にも波及させ、地域の利便性の向上や中山間地域の持続的発展を目指します。,
+岐阜県,アイデア部門,超高速交通網との接続にむけた自動運転ネットワークの導入と地域拠点整備による新たな人の流れ創出事業※内閣府未来技術社会実装事業（R3年度認定）,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/21-4.pdf,https://nettv.gov-online.go.jp/prg/prg24695.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024695.png,中津川市と東京大学の共同研究により、当市の地域に自動運転技術の導入と新たな交通・交流拠点の創出により、リニア駅と濃飛横断自動車道の広域交通の整備効果を中心部から離れた地域にも波及させ、地域の利便性の向上や中山間地域の持続的発展を目指します。
 静岡県,実装部門（指定都市・中核市・施行時特例市等）,道路情報オープンデータ提供事業「しずみちinfo」,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/22-1.pdf,,,
 静岡県,実装部門（上記を除く市）,行政と保護者との「接点」にデジタル技術を活用した子育て支援プラットフォームの構築,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/22-2.pdf,,,
 静岡県,実装部門（町・村）,予約・乗車システムを活用したデマンドバスによる地域生活圏のモビリティの充実,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/22-3.pdf,,,
-静岡県,アイデア部門,多機能カーブミラーによる交通安全対策推進事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/22-4.pdf,https://nettv.gov-online.go.jp/prg/prg24687.html,藤枝市では、市内で発生する人身交通事故の約３割を占める「出会い頭事故」を減らすため、官民共同で多機能カーブミラーを開発しました。交差点への接近車両をAIカメラセンサーで感知し、カーブミラー周囲と鏡面に搭載したLEDにより注意喚起を行います。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024687.jpg
+静岡県,アイデア部門,多機能カーブミラーによる交通安全対策推進事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/22-4.pdf,https://nettv.gov-online.go.jp/prg/prg24687.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024687.jpg,藤枝市では、市内で発生する人身交通事故の約３割を占める「出会い頭事故」を減らすため、官民共同で多機能カーブミラーを開発しました。交差点への接近車両をAIカメラセンサーで感知し、カーブミラー周囲と鏡面に搭載したLEDにより注意喚起を行います。
 愛知県,実装部門（指定都市・中核市・施行時特例市等）,AIを活用した地域防犯パトロール活動の活性化,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/23-1.pdf,,,
 愛知県,実装部門（上記を除く市）,ＬＩＮＥ連携によるオンライン申請サービスへの取組,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/23-2.pdf,,,
 愛知県,実装部門（町・村）,もりもり筋(きん)活(かつ)＆こつこつ骨(ほね)活(かつ)「骨折予防プロジェクト！」,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/23-3.pdf,,,
-愛知県,アイデア部門,救急活動のＤＸで市民サービスを向上,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/23-4.pdf,https://nettv.gov-online.go.jp/prg/prg24685.html,豊田市消防本部では、令和4年4月から民間企業と「救急医療情報システム」の実証試験を行っています。これまでアナログだった救急活動のDXに取り組むことで、現場滞在時間の短縮等、「市民の生命を守る」という最大の市民サービス向上を図っています。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024685.png
+愛知県,アイデア部門,救急活動のＤＸで市民サービスを向上,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/23-4.pdf,https://nettv.gov-online.go.jp/prg/prg24685.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024685.png,豊田市消防本部では、令和4年4月から民間企業と「救急医療情報システム」の実証試験を行っています。これまでアナログだった救急活動のDXに取り組むことで、現場滞在時間の短縮等、「市民の生命を守る」という最大の市民サービス向上を図っています。
 三重県,アイデア部門,「Green & Digital Mie」三重広域連携DXプラットフォーム推進事業～自然あふれる地域の魅力と、利便性の高いデジタルサービスが融合した、魅力あるまちづくり～,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/24-4.pdf,,,
 滋賀県,実装部門（町・村）,日野町版デジタル「EBPM」の実現,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/25-3.pdf,,,
 滋賀県,アイデア部門,デジタル地域通貨を活用した市民のデジタルリテラシーの向上とデジタルファーストによるコミュニティづくり,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/25-4.pdf,,,
 京都府,実装部門（上記を除く市）,子どもたちが住みつづけるまち創造事業（電子書籍を活用した子育て支援拠点の構築）,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/26-2.pdf,,,
-京都府,実装部門（町・村）,いねばん×いねタク～行政情報配信システムを活用したドアツードアのオンデマンド交通～,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/26-3.pdf,https://nettv.gov-online.go.jp/prg/prg24675.html,全世帯にタブレット端末いねばんを配備し、行政情報を配信しています。この端末を活用し、従来のコミュニティバスよりも利便性が高いドアツードアのオンデマンド交通いねタクを実装しました。伊根町は、デジタルを活用した『先進的な少数社会』を目指します。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024675.png
+京都府,実装部門（町・村）,いねばん×いねタク～行政情報配信システムを活用したドアツードアのオンデマンド交通～,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/26-3.pdf,https://nettv.gov-online.go.jp/prg/prg24675.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024675.png,全世帯にタブレット端末いねばんを配備し、行政情報を配信しています。この端末を活用し、従来のコミュニティバスよりも利便性が高いドアツードアのオンデマンド交通いねタクを実装しました。伊根町は、デジタルを活用した『先進的な少数社会』を目指します。
 京都府,アイデア部門,ブランド京野菜「万願寺甘とう」データを活用したスマート栽培による持続可能な産地づくり,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/26-4.pdf,,,
 大阪府,実装部門（指定都市・中核市・施行時特例市等）,『とよなかデジタル・ガバメント戦略』の推進,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/27-1.pdf,,,
 大阪府,実装部門（上記を除く市）,地域住民の生活の質を高める移動支援、南花台モビリティ「クルクル」,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/27-2.pdf,,,
 大阪府,実装部門（町・村）,コンパクトスマートシティ実現に向けた公民連携による取り組み,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/27-3.pdf,,,
-大阪府,アイデア部門,あんしん睡眠サポート事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/27-4.pdf,https://nettv.gov-online.go.jp/prg/prg24677.html,一人暮らしの高齢者等を対象に、睡眠リズムを見える化するシート型センサー機器を導入し、ご本人やご家族等への睡眠リズムのレポート配信、保健師等による電話での健康アドバイスを通じ、高齢者の健康管理や見守り支援、病気の早期発見をめざす実証です。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024677.png
+大阪府,アイデア部門,あんしん睡眠サポート事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/27-4.pdf,https://nettv.gov-online.go.jp/prg/prg24677.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024677.png,一人暮らしの高齢者等を対象に、睡眠リズムを見える化するシート型センサー機器を導入し、ご本人やご家族等への睡眠リズムのレポート配信、保健師等による電話での健康アドバイスを通じ、高齢者の健康管理や見守り支援、病気の早期発見をめざす実証です。
 兵庫県,実装部門（指定都市・中核市・施行時特例市等）,ICTを活用した安全・安心に係るスマートシティの取組,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/28-1.pdf,,,
 兵庫県,実装部門（上記を除く市）,ＩＣＴを活用した飛び地自治体連携による健康ポイントプログラム,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/28-2.pdf,,,
 兵庫県,アイデア部門,高齢者、障害者、子育て世帯に優しいオンライン相談・手続窓口「遠隔行政窓口」の導入,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/28-4.pdf,,,
@@ -101,10 +101,10 @@
 和歌山県,実装部門（上記を除く市）,紀伊半島における交通・観光のデジタル化事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/30-2.pdf,,,
 和歌山県,アイデア部門,耐災害ネットワークを活用した転職なき移住の実現,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/30-4.pdf,,,
 鳥取県,実装部門（指定都市・中核市・施行時特例市等）,ライブカメラやＧＰＳを活用した道路状況の見える化,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/31-1.pdf,,,
-鳥取県,実装部門（上記を除く市）,スマート窓口システムの構築,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/31-2.pdf,https://nettv.gov-online.go.jp/prg/prg24670.html,"出生や引っ越しなどのライフイベントに伴う手続を簡単、便利に！！　
-データとデジタル技術を活用し、システムで分かることは「書かせない」、必要な手続を表示して「迷わせない」、データを連携し「何度も聞かない」を実現したスマート窓口を開設しました。",https://dwl.gov-online.go.jp/video/cao/dl/img/J00024670.png
+鳥取県,実装部門（上記を除く市）,スマート窓口システムの構築,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/31-2.pdf,https://nettv.gov-online.go.jp/prg/prg24670.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024670.png,"出生や引っ越しなどのライフイベントに伴う手続を簡単、便利に！！　
+データとデジタル技術を活用し、システムで分かることは「書かせない」、必要な手続を表示して「迷わせない」、データを連携し「何度も聞かない」を実現したスマート窓口を開設しました。"
 鳥取県,実装部門（町・村）,智頭Miraizeプロジェクト,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/31-3.pdf,,,
-鳥取県,アイデア部門,【八頭町×Google×隼Lab.】ノーコードから始める！八頭町まるごとＤＸ推進,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/31-4.pdf,https://nettv.gov-online.go.jp/prg/prg24668.html,ノーコードで様々なアプリを自作することを手始めに、八頭町が目指す「持続可能な田舎の未来」へ挑戦します。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024668.png
+鳥取県,アイデア部門,【八頭町×Google×隼Lab.】ノーコードから始める！八頭町まるごとＤＸ推進,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/31-4.pdf,https://nettv.gov-online.go.jp/prg/prg24668.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024668.png,ノーコードで様々なアプリを自作することを手始めに、八頭町が目指す「持続可能な田舎の未来」へ挑戦します。
 島根県,実装部門（指定都市・中核市・施行時特例市等）,高齢者による高齢者のためのスマホ教室,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/32-1.pdf,,,
 島根県,実装部門（上記を除く市）,“チームルピナス”（LINEを利用した情報共有）プロジェクト,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/32-2.pdf,,,
 島根県,実装部門（町・村）,阿井地区集落営農組織等連携の取組み,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/32-3.pdf,,,
@@ -113,7 +113,7 @@
 岡山県,実装部門（上記を除く市）,ＩＣＴ教育の実践によるデジタル人材の育成,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/33-2.pdf,,,
 岡山県,アイデア部門,デジタル技術を活用した健康無関心層を含む市民の健康生活習慣化事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/33-4.pdf,,,
 広島県,実装部門（指定都市・中核市・施行時特例市等）,びんごデジタルラボを中心とした中小企業のデジタル化支援,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/34-1.pdf,,,
-広島県,実装部門（上記を除く市）,「アナログ×デジタル」で高齢者簡単予約とコロナワクチン迅速処理の実現,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/34-2.pdf,https://nettv.gov-online.go.jp/prg/prg24682.html,電話とインターネットで開始したコロナワクチン接種予約は「ネット予約が分からない」「電話がつながらない」という大きな不満を残し第１クールを終了した。そこで三原市では高齢者に優しい接種予約のため，「アナログ×デジタル」の挑戦を開始した。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024682.png
+広島県,実装部門（上記を除く市）,「アナログ×デジタル」で高齢者簡単予約とコロナワクチン迅速処理の実現,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/34-2.pdf,https://nettv.gov-online.go.jp/prg/prg24682.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024682.png,電話とインターネットで開始したコロナワクチン接種予約は「ネット予約が分からない」「電話がつながらない」という大きな不満を残し第１クールを終了した。そこで三原市では高齢者に優しい接種予約のため，「アナログ×デジタル」の挑戦を開始した。
 広島県,実装部門（町・村）,ドローンを活用した「地産地防」の仕組みの構築,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/34-3.pdf,,,
 広島県,アイデア部門,衛星データ×AIとドローンによるデジタル農地台帳,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/34-4.pdf,,,
 山口県,実装部門（指定都市・中核市・施行時特例市等）,ＳＮＳ事業者・大学と連携したデジタル活用支援教材の共同開発,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/35-1.pdf,,,
@@ -121,13 +121,13 @@
 山口県,実装部門（町・村）,携帯ショップはないけれどデジタル田布施を目指す！高齢者等向けスマートフォン教室の開催,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/35-3.pdf,,,
 山口県,アイデア部門,スマホで完結！粗大ごみ申込の市民負担を減らすツールの協働開発,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/35-4.pdf,,,
 徳島県,実装部門（指定都市・中核市・施行時特例市等）,阿波おどり未来につなぐプロジェクト（新たな時代を見据えた阿波おどり開催による関係人口の拡大）,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/36-1.pdf,,,
-徳島県,実装部門（上記を除く市）,母子保健事業における電子母子手帳サービスを活用した子育て支援,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/36-2.pdf,https://nettv.gov-online.go.jp/prg/prg24696.html,「子育てするなら阿波市」の実現のため、母子手帳アプリ「ぽかぽか」を導入し、妊娠、出産、子育てまでの各段階を切れ目なくサポートしています。アプリを活用し、思い出や記録を家族で共有もでき、育児情報を手軽に入手することができます。,
+徳島県,実装部門（上記を除く市）,母子保健事業における電子母子手帳サービスを活用した子育て支援,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/36-2.pdf,https://nettv.gov-online.go.jp/prg/prg24696.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024696.png,「子育てするなら阿波市」の実現のため、母子手帳アプリ「ぽかぽか」を導入し、妊娠、出産、子育てまでの各段階を切れ目なくサポートしています。アプリを活用し、思い出や記録を家族で共有もでき、育児情報を手軽に入手することができます。
 徳島県,実装部門（町・村）,Society5.0実装化エリア創出事業（東みよし町いちご・いい知恵事業）,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/36-3.pdf,,,
 徳島県,アイデア部門,“リスキリング×テレワーク”で地方に都市部企業のお仕事誘致！,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/36-4.pdf,,,
-香川県,実装部門（指定都市・中核市・施行時特例市等）,IoT防災スクラム～データ連携！自治体広域連携！！～,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/37-1.pdf,https://nettv.gov-online.go.jp/prg/prg24679.html,来たるべき時に備えて。高松市の“IoT防災スクラム”で、各種収集したデータの連携・近隣市町との広域連携、様々な連携がより強固な防災へとつながる。これがデジタルを活用した、新たな防災のカタチ。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024679.PNG
+香川県,実装部門（指定都市・中核市・施行時特例市等）,IoT防災スクラム～データ連携！自治体広域連携！！～,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/37-1.pdf,https://nettv.gov-online.go.jp/prg/prg24679.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024679.PNG,来たるべき時に備えて。高松市の“IoT防災スクラム”で、各種収集したデータの連携・近隣市町との広域連携、様々な連携がより強固な防災へとつながる。これがデジタルを活用した、新たな防災のカタチ。
 愛媛県,実装部門（指定都市・中核市・施行時特例市等）,地域子育て支援拠点事業でのオンラインサービスを活用した子育て支援,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/38-1.pdf,,,
-愛媛県,実装部門（上記を除く市）,宇和島ライフに欠かせない多機能スマホアプリ「伊達なうわじま安心ナビ」,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/38-2.pdf,https://nettv.gov-online.go.jp/prg/prg24674.html,市民や観光客の皆さまが、宇和島ライフを安心・安全で楽しく過ごすことができるよう、多機能スマホアプリ「伊達なうわじま安心ナビ」を活用して「防災・健康・子育て・観光」をサポートします！,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024674.png
-愛媛県,実装部門（町・村）,コロナ禍でも持続可能、ぎょしょく教育活動のＤＸ,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/38-3.pdf,https://nettv.gov-online.go.jp/prg/prg24653.html,真鯛を３枚におろす疑似体験ができるアプリケーション等をほぼ0円で制作し、社会環境が変化しても持続可能なぎょしょく教育のDXへ取り組み、その結果、海外でも利用され、教育、産業、観光、環境への振興を果たし、地域への愛着等を育んでいます。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024653.png
+愛媛県,実装部門（上記を除く市）,宇和島ライフに欠かせない多機能スマホアプリ「伊達なうわじま安心ナビ」,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/38-2.pdf,https://nettv.gov-online.go.jp/prg/prg24674.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024674.png,市民や観光客の皆さまが、宇和島ライフを安心・安全で楽しく過ごすことができるよう、多機能スマホアプリ「伊達なうわじま安心ナビ」を活用して「防災・健康・子育て・観光」をサポートします！
+愛媛県,実装部門（町・村）,コロナ禍でも持続可能、ぎょしょく教育活動のＤＸ,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/38-3.pdf,https://nettv.gov-online.go.jp/prg/prg24653.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024653.png,真鯛を３枚におろす疑似体験ができるアプリケーション等をほぼ0円で制作し、社会環境が変化しても持続可能なぎょしょく教育のDXへ取り組み、その結果、海外でも利用され、教育、産業、観光、環境への振興を果たし、地域への愛着等を育んでいます。
 愛媛県,アイデア部門,【グローカル最前線】平均年齢７６歳の超高齢化・限界集落から生まれた顔パス・キャッシュレス,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/38-4.pdf,,,
 高知県,実装部門（指定都市・中核市・施行時特例市等）,電子地域ポイントシステムを活用した鏡川清流保全,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/39-1.pdf,,,
 高知県,実装部門（上記を除く市）,自動運転技術を活用したサステナブルな公共交通のあり方検討,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/39-2.pdf,,,
@@ -137,7 +137,7 @@
 福岡県,実装部門（上記を除く市）,有害鳥獣捕獲わな監視システム,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/40-2.pdf,,,
 福岡県,実装部門（町・村）,ＩｏＴを活用した子ども見守り事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/40-3.pdf,,,
 福岡県,アイデア部門,高齢者へのスマホ端末貸与によるデジタルデバイド解消事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/40-4.pdf,,,
-佐賀県,実装部門（指定都市・中核市・施行時特例市等）,ＳＡＧＡスマート街なかプロジェクト,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/41-1.pdf,https://nettv.gov-online.go.jp/prg/prg24683.html,ＳＡＧＡスマート街なかプロジェクトでは、ＡＩ／ＩｏＴといったデジタル技術を使って、楽しく快適に過ごすことができる中心市街地を「みんなで考え、みんなで創る」ため、未来志向の街づくりを展開しています。合言葉は『ミライをサガに実装しよう！』,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024683.png
+佐賀県,実装部門（指定都市・中核市・施行時特例市等）,ＳＡＧＡスマート街なかプロジェクト,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/41-1.pdf,https://nettv.gov-online.go.jp/prg/prg24683.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024683.png,ＳＡＧＡスマート街なかプロジェクトでは、ＡＩ／ＩｏＴといったデジタル技術を使って、楽しく快適に過ごすことができる中心市街地を「みんなで考え、みんなで創る」ため、未来志向の街づくりを展開しています。合言葉は『ミライをサガに実装しよう！』
 佐賀県,実装部門（上記を除く市）,ドローンを活用した地域課題解決実証事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/41-2.pdf,,,
 佐賀県,実装部門（町・村）,ドローンを活用した作付け確認の取り組み,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/41-3.pdf,,,
 長崎県,実装部門（指定都市・中核市・施行時特例市等）,「スマート・スクール・ＳＡＳＥＢＯ」ＶＩＳＩＯＮの推進,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/42-1.pdf,,,
@@ -152,11 +152,11 @@
 大分県,実装部門（町・村）,玖珠町ジュニアICTリーダー事業（JIL）,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/44-3.pdf,,,
 大分県,アイデア部門,ドローンを活用した物流と新たな観光資源の開発,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/44-4.pdf,,,
 宮崎県,実装部門（上記を除く市）,デジタル化こそアナログで！～誰一人取り残されないデジタル社会実現プロジェクト～,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/45-2.pdf,,,
-宮崎県,実装部門（町・村）,デジタル・フレンドリー事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/45-3.pdf,https://nettv.gov-online.go.jp/prg/prg24686.html,「デジタルと友だちになり、デジタルで友だちを増やす町」をコンセプトに行っているデジタル・フレンドリー事業。町のみなさんと一緒に企画から運用まで１年間で行ってきました。デジタルデバイドの解消を最重要視しています。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024686.jpg
+宮崎県,実装部門（町・村）,デジタル・フレンドリー事業,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/45-3.pdf,https://nettv.gov-online.go.jp/prg/prg24686.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024686.jpg,「デジタルと友だちになり、デジタルで友だちを増やす町」をコンセプトに行っているデジタル・フレンドリー事業。町のみなさんと一緒に企画から運用まで１年間で行ってきました。デジタルデバイドの解消を最重要視しています。
 宮崎県,アイデア部門,安心と温もりの市民参加型GISクラウドサービス構築事業（３Ｄ都市モデルを活用した都市マネジメント）,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/45-4.pdf,,,
 鹿児島県,実装部門（指定都市・中核市・施行時特例市等）,ＩＣＴを活用したスマートで快適な図書館サービス,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/46-1.pdf,,,
 鹿児島県,実装部門（上記を除く市）,ほーらしゃ券販売業務のＤＸ,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/46-2.pdf,,,
 鹿児島県,実装部門（町・村）,地域のNPO法人が繋ぐデジタルの学び合い,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/46-3.pdf,,,
-鹿児島県,アイデア部門,NAGASHIMA DIGITAL SCHOOL PROJECT,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/46-4.pdf,https://nettv.gov-online.go.jp/prg/prg24680.html,鹿児島県長島町はデジタルの力を活用し町を大きく変えようとしています。第一弾は町のシンボルであるマンダリンセンターを改修し、町内外とを繋ぐコミュニティスペースやテレワークスペース、子供たちが都市圏と同等の教育を受けられる場所にします。,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024680.png
+鹿児島県,アイデア部門,NAGASHIMA DIGITAL SCHOOL PROJECT,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/46-4.pdf,https://nettv.gov-online.go.jp/prg/prg24680.html,https://dwl.gov-online.go.jp/video/cao/dl/img/J00024680.png,鹿児島県長島町はデジタルの力を活用し町を大きく変えようとしています。第一弾は町のシンボルであるマンダリンセンターを改修し、町内外とを繋ぐコミュニティスペースやテレワークスペース、子供たちが都市圏と同等の教育を受けられる場所にします。
 沖縄県,実装部門（上記を除く市）,創業支援及びデジタル人材育成によるスタートアップエコシステムの形成,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/47-2.pdf,,,
 沖縄県,アイデア部門,デジタル総合窓口を活用した地域内外のオンライン関係人口の拡大,https://www.cas.go.jp/jp/seisaku/digital_denen/chiiki/pdf/47-4.pdf,,,

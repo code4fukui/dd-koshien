@@ -7,7 +7,7 @@ https://code4fukui.github.io/dd-koshien/
 ```
 mkdir .github
 mkdir .github/workflows
-cat > github/workflows/scheduled-update.yml
+cat > .github/workflows/scheduled-update.yml
 ```
 
 ```

@@ -4,6 +4,13 @@
 - [動画エントリー一覧](https://code4fukui.github.io/dd-koshien/movie.html)
 - [動画エントリー一覧（全件、読込長い）](https://code4fukui.github.io/dd-koshien/movie-all.html)
 
+## シビックオープンデータ
+
+- [CSV](https://code4fukui.github.io/dd-koshien/data/dd-koshien-2022s.csv)
+- [JSON](https://code4fukui.github.io/dd-koshien/data/dd-koshien-2022s.json)
+- [CBOR](https://code4fukui.github.io/dd-koshien/data/dd-koshien-2022s.cbor)
+- 出典表記例: 「[夏のDigi田甲子園｜内閣官房ホームページ](https://www.cas.go.jp/jp/seisaku/digital_denen/koushien.html)」を加工して使用 (変換 by [Code for FUKUI](https://code4fukui.github.io/))
+
 ## auto update
 
 ```

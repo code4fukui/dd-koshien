@@ -1,6 +1,8 @@
 # dd-koshien
- 
-https://code4fukui.github.io/dd-koshien/
+
+- [エントリー一覧](https://code4fukui.github.io/dd-koshien/)
+- [動画エントリー一覧](https://code4fukui.github.io/dd-koshien/movie.html)
+- [動画エントリー一覧（全件、読込長い）](https://code4fukui.github.io/dd-koshien/movie-all.html)
 
 ## auto update
 
@@ -37,4 +39,8 @@ jobs:
           git commit -m 'update data' && git push ${REPO} HEAD:${{github.event.pull_request.head.ref}} || true
           git push
 ```
+
+## for nettv.gov-online
+
+- 動画表示コンポーネント [createNetTV.js](createNetTV.js)
 

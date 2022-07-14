@@ -1,0 +1,33 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<title>夏のDigi田甲子園 エントリー動画一覧（createNetTV.js デモ）</title>
+<style>
+body {
+  margin: 0;
+  text-align: center;
+}
+.theoplayer-container {
+  width: 90vw;
+  height: 50.6vw;
+}
+.nettv {
+  text-align: center;
+  display: inline-block;
+}
+</style>
+</head><body>
+<script type="module">
+import { createNetTV } from "./createNetTV.js";
+
+const ids = [24335, 24708, 24650, 24671 ];
+
+for (const id of ids) {
+  main.appendChild(createNetTV(id));
+}
+</script>
+
+<h1>夏のDigi田（デジデン）甲子園</h1>
+<div id=main></div>
+<footer>
+DATA: <a href=https://www.cas.go.jp/jp/seisaku/digital_denen/koushien.html>夏のDigi田甲子園｜内閣官房ホームページ</a><br>
+APP: <a href=https://github.com/code4fukui/dd-koshien/>src on GitHub by Code for FUKUI</a><br>
+</footer>

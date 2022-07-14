@@ -1,0 +1,84 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<title>夏のDigi田甲子園 エントリー動画一覧（createNetTV.js デモ）</title>
+<style>
+body {
+  margin: 0;
+  text-align: center;
+}
+.theoplayer-container {
+  width: 90vw;
+  height: 50.6vw;
+}
+.nettv {
+  text-align: center;
+  display: inline-block;
+}
+@media screen and (min-width: 600px) {
+  .theoplayer-container {
+    width: 45vw;
+    height: 25.3vw;
+    margin: 0 .5vw;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .theoplayer-container {
+    width: 30vw;
+    height: 16.87vw;
+    margin: 0 .5vw;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .theoplayer-container {
+    width: 22.5vw;
+    height: 12.65vw;
+    margin: 0 .5vw;
+  }
+}
+</style>
+</head><body>
+<script type="module">
+import { createNetTV } from "./createNetTV.js";
+import { sleep } from "https://js.sabae.cc/sleep.js";
+
+const data = await (await fetch("./data/dd-koshien-2022s.json")).json();
+
+main.appendChild(await createNetTV(24335)); // first
+
+const movie = data.filter(d => d.nettvid);
+movie.sort((a, b) => parseInt(b.nettvid) - parseInt(a.nettvid)); // 新着順
+//movie.sort((a, b) => parseInt(a.nettvid) - parseInt(b.nettvid)); // 番号順
+
+//for (const d of movie) {
+for (let i = 0; i < 11; i++) {
+  const d = movie[i];
+  main.appendChild(createNetTV(d.nettvid));
+}
+/*
+onload = () => {
+  cosnole.log(3);
+  loading.style.display = "none";
+};
+*/
+/*
+let tid = setInterval(() => {
+  console.log(main.children.length);
+  if (main.children.length > 2) {
+    loading.style.display = "none";
+    clearInterval(tid);
+  }
+}, 100);
+*/
+</script>
+
+<h1>夏のDigi田甲子園</h1>
+<div><a href=https://www.cas.go.jp/jp/seisaku/digital_denen/koushien.html>夏のDigi田（デジデン）甲子園</a> → <a href=https://www.cas.go.jp/digidenkoshien.html>投票</a>（<a href=./>全エントリー</a>）</div>
+<br>
+<div id=main></div>
+<a href=movie-all.html>全エントリーの動画を見る（読み込みに時間がかかります）</a>
+<!--
+  <img id="loading" src="Loading_icon.gif" alt="https://commons.wikimedia.org/wiki/File:Loading_icon.gif">
+-->
+<footer>
+DATA: <a href=https://www.cas.go.jp/jp/seisaku/digital_denen/koushien.html>夏のDigi田甲子園｜内閣官房ホームページ</a><br>
+APP: <a href=https://github.com/code4fukui/dd-koshien/>src on GitHub by Code for FUKUI</a><br>
+</footer>

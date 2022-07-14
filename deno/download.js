@@ -36,8 +36,9 @@ for (const link of links) {
     } else if (tag.tagName == "UL") {
       data.url = base + "chiiki/" + tag.querySelector("a").getAttribute("href");
     } else if (tag.tagName == "CENTER") {
-      const id = tag.querySelector("div > div").getAttribute("id");
-      const murl = `https://nettv.gov-online.go.jp/prg/prg${id.substring(5)}.html`;
+      const id = tag.querySelector("div > div").getAttribute("id").substring(5);
+      const murl = `https://nettv.gov-online.go.jp/prg/prg${id}.html`;
+      data.nettvid = id;
       data.movie = murl;
       const mhtml = await fetchOrLoad(murl);
       const mdom = new DOMParser().parseFromString(mhtml, "text/html");
@@ -50,6 +51,8 @@ for (const link of links) {
       const title = mdom.querySelector("title").textContent.split("｜");
       data.city = title[0];
       data.title = title[1];
+      const date = mdom.querySelector(".ci-date strong").textContent;
+      //data.date = date; // 全部 2022-06-15?
     } else if (tag.tagName == "P") {
       const st = tag.querySelector("strong");
       if (st) {

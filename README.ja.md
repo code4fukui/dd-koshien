@@ -16,3 +16,8 @@ GitHub Actionsで毎日データ更新を行います。
 
 ## for nettv.gov-online
 動画表示コンポーネント [createNetTV.js](createNetTV.js) を提供しています。
+
+## ライセンス
+MIT License
+
+Copyright (c) 2022 Taisuke Fukuno

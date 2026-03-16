@@ -20,6 +20,4 @@ Automatic daily update of the data using GitHub Actions.
 - Video Display Component [createNetTV.js](createNetTV.js)
 
 ## License
-MIT License
-
-Copyright (c) 2022 Taisuke Fukuno
+MIT License — see [LICENSE](LICENSE).

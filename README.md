@@ -1,51 +1,55 @@
 # dd-koshien
 
-- [エントリー一覧](https://code4fukui.github.io/dd-koshien/)
-- [動画エントリー一覧](https://code4fukui.github.io/dd-koshien/movie.html)
-- [動画エントリー一覧（全件、読込長い）](https://code4fukui.github.io/dd-koshien/movie-all.html)
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-## シビックオープンデータ
+This repository provides civic open data for the Summer Digi-den Koshien 2022, an event showcasing digital transformation initiatives by local communities in Japan.
 
-- 夏のDigi田甲子園2022エントリー一覧 ([CSV](https://code4fukui.github.io/dd-koshien/data/dd-koshien-2022s.csv) / [JSON](https://code4fukui.github.io/dd-koshien/data/dd-koshien-2022s.json) / [CBOR](https://code4fukui.github.io/dd-koshien/data/dd-koshien-2022s.cbor))
-- 出典表記例: 「[夏のDigi田甲子園｜内閣官房ホームページ](https://www.cas.go.jp/jp/seisaku/digital_denen/koushien.html)」を加工して使用 (変換 by [Code for FUKUI](https://code4fukui.github.io/))
+## Demo
 
-## auto update
+-   [List of Entries](https://code4fukui.github.io/dd-koshien/)
+-   [List of Video Entries](https://code4fukui.github.io/dd-koshien/movie.html)
+-   [List of All Video Entries (Slower Load)](https://code4fukui.github.io/dd-koshien/movie-all.html)
 
+## Civic Open Data
+
+This project scrapes and structures the entry data from the official Summer Digi-den Koshien 2022 website.
+
+-   **Attribution:** "Adapted from [Summer Digi-den Koshien | Cabinet Secretariat Website](https://www.cas.go.jp/jp/seisaku/digital_denen/koushien.html)" (Converted by [Code for FUKUI](https://code4fukui.github.io/))
+-   **Available Formats:**
+    -   [CSV](data/dd-koshien-2022s.csv)
+    -   [JSON](data/dd-koshien-2022s.json)
+    -   [CBOR](data/dd-koshien-2022s.cbor)
+-   **Data Fields:**
+    -   `pref`: Prefecture name
+    -   `category`: Entry category
+    -   `name`: Name of the initiative
+    -   `url`: Link to the entry's PDF document
+    -   `src`: Source URL on the Cabinet Secretariat website
+    -   `nettvid`: Video ID from `nettv.gov-online.go.jp` (if available)
+    -   `movie`: Link to the video page
+    -   `image`: Link to the video thumbnail image
+    -   `city`: City/Town name from video metadata
+    -   `title`: Title from video metadata
+    -   `description`: Description from video metadata
+
+## Features
+
+### Automated Data Scraping
+
+The data was collected using a Deno script ([deno/download.js](deno/download.js)) that scrapes the official website. A GitHub Actions workflow ([.github/workflows/scheduled-update.yml](.github/workflows/scheduled-update.yml)) was used to automate this process. Note: The scheduled update is currently disabled as the 2022 event has concluded.
+
+### Video Embedding Component
+
+The repository includes a JavaScript module, [createNetTV.js](createNetTV.js), for easily embedding videos from Japan's government internet TV service, [nettv.gov-online.go.jp](https://nettv.gov-online.go.jp/).
+
+```javascript
+import { createNetTV } from "./createNetTV.js";
+
+// Use the 'nettvid' from the dataset
+const videoPlayer = createNetTV("24726");
+document.body.appendChild(videoPlayer);
 ```
-mkdir .github
-mkdir .github/workflows
-cat > .github/workflows/scheduled-update.yml
-```
 
-```
-name: Scheduled 
+## License
 
-on:
-  schedule:
-    # 毎日18:25分に実行 (JST=UTC+9)
-    - cron: '25 9 * * *'
-
-jobs:
-  build:
-    name: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1.x
-      - name: fetch
-        run: cd deno; deno run -A download.js
-      - name: commit and push
-        run: |
-          git config --global user.email "workflow@example.com"
-          git config --global user.name "workflow user"
-          git add .
-          git commit -m 'update data' && git push ${REPO} HEAD:${{github.event.pull_request.head.ref}} || true
-          git push
-```
-
-## for nettv.gov-online
-
-- 動画表示コンポーネント [createNetTV.js](createNetTV.js)
-
+MIT License — see [LICENSE](LICENSE).
